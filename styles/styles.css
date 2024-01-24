@@ -55,6 +55,7 @@ body {
 }
 body {
     margin: 0;
+    margin-top: 5vh;
     min-height: 100%;
     background-color: #fff;
     font-family: Arial,sans-serif;
@@ -100,6 +101,10 @@ body {
     }
     .body{
         line-height: 60px;
+    }
+
+    .margin-bottom{
+        line-height: normal;
     }
     
 }
