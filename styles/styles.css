@@ -59,9 +59,10 @@ body {
     min-height: 100%;
     background-color: #fff;
     font-family: Arial,sans-serif;
-    font-size: 14px;
+    font-size: 24px;
     line-height: 20px;
     color: #333;
+    line-height: normal;
 }
 
 .calling{
